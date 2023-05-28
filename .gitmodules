@@ -1,0 +1,3 @@
+[submodule "simrs/django/simrs/django/RumahSakit"]
+	path = simrs/django/simrs/django/RumahSakit
+	url = https://github.com/garryaf/RumahSakit.git
